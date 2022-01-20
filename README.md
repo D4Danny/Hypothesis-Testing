@@ -11,7 +11,10 @@ Take the decision to reject or retain the null hypothesis  based on the p-value 
 # Hypothesis Testing on FOUR Business Case
 
 ### [1. Cutlet Diameter Significance.](https://github.com/D4Danny/Cutlet-Diameter)
+
+#### A F&B manager wants to determine whether there is any significant difference in the diameter of the cutlet between two units. A randomly selected sample of cutlets was collected from both units and measured? Analyze the data and draw inferences at 5% significance level. Please state the assumptions and tests that you carried out to check validity of the assumptions.
 #### Statistic applied: 2 Tail test. 2 Samples.
+
 ### [2. Average TAT for Laboratories.](https://github.com/D4Danny/Average-Laboratory-TAT-Test.)
 #### Statistic applied: Anova ftest statistics: 
 Input(X) is discrete in more than TWO CATEGOTIES. OUT(Y) is Continous
