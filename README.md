@@ -16,8 +16,7 @@ Take the decision to reject or retain the null hypothesis  based on the p-value 
 #### Statistic applied: 2 Tail test. 2 Samples.
 
 ### [2. Average TAT for Laboratories.](https://github.com/D4Danny/Average-Laboratory-TAT-Test./blob/main/Hypothesis%20Assignment%20Q2.ipynb)
-#### A hospital wants to determine whether there is any difference in the average Turn Around Time (TAT) of reports of the laboratories on their preferred list. They collected a random sample and recorded TAT for reports of 4 laboratories. TAT is defined as sample collected to report dispatch.
-#### Analyze the data and determine whether there is any difference in average TAT among the different laboratories at 5% significance level.
+#### A hospital wants to determine whether there is any difference in the average Turn Around Time (TAT) of reports of the laboratories on their preferred list. They collected a random sample and recorded TAT for reports of 4 laboratories. TAT is defined as sample collected to report dispatch. Analyze the data and determine whether there is any difference in average TAT among the different laboratories at 5% significance level.
 #### Statistic applied: Anova ftest statistics: 
 Input(X) is discrete in more than TWO CATEGOTIES. OUT(Y) is Continous
 
